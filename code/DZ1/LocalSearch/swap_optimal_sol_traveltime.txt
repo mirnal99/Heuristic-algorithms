@@ -1,0 +1,2 @@
+Number of optimal solutions: 1
+Number of valid solutions: 23
